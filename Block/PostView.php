@@ -48,7 +48,6 @@ class PostView extends \Magento\Framework\View\Element\Template implements
 
     /**
      * Return identifiers for produced content
-     *
      * @return array
      */
     public function getIdentities()
