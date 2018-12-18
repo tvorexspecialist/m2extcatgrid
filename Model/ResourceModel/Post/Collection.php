@@ -9,6 +9,7 @@ class Collection extends \Magento\Framework\Model\ResourceModel\Db\Collection\Ab
 
     /**
      * Define resource model
+     * construct
      *
      * @return void
      */
